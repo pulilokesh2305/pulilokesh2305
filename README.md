@@ -1,4 +1,5 @@
-Hi there 👋 I am P Vibhaas
+Hi there 👋 I am P Lokesh
+
 🎓 CSE Student | 🌱 Learning & Building
 
 I'm a Computer Science student who enjoys learning programming and exploring new technologies.
@@ -21,8 +22,9 @@ Languages & Technologies
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-🚀 Interested In
 
+
+🚀 Interested In
 Cyber Security
 Problem Solving
 Web Development
