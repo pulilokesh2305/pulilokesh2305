@@ -36,4 +36,4 @@ Building projects
 
 📫 Connect With Me
 
-GitHub: @{https://github.com/pulilokesh2305}
+GitHub: [@pulilokesh2305](https://github.com/pulilokesh2305)
