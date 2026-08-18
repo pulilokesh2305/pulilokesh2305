@@ -25,9 +25,13 @@ Languages & Technologies
 
 
 🚀 Interested In
+
 Cyber Security
+
 Problem Solving
+
 Web Development
+
 Building projects
 
 📫 Connect With Me
